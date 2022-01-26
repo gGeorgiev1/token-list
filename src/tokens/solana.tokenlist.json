@@ -90115,7 +90115,8 @@
         "twitter": "https://twitter.com/GnarlyGnomies",
         "website": "https://gnomiezgen2.fun/"
       }
-    }, {
+    }, 
+    {
       "chainId": 101,
       "address": "FEiVPB67mabyoMsNhvQuww2YCid7Lwo6c6aKJBfQ7oet",
       "symbol": "BDHK",
